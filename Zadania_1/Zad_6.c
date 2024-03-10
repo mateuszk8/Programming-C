@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <cstring> 
+#include <string.h> 
 
 int ruchKomputera() // Losowanie liczby od 0 do 2 gdzie 0 to kamień, 1 to papier, 2 to nożyce
 {
